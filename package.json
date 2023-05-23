@@ -13,7 +13,9 @@
   "dependencies": {
     "axios": "^0.22.0",
     "cheerio": "^1.0.0-rc.10",
-    "express": "^4.17.1"
+    "dotenv": "16.0.3",
+    "express": "^4.17.1",
+    "twilio": "4.11.1"
   },
   "devDependencies": {
     "nodemon": "^2.0.15"
